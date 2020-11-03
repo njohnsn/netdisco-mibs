@@ -1,4 +1,4 @@
--- ArubaOS 6.4.2.3-4.1.1.2_48114
+--- ArubaOS 8.7.1.0_77203
    WLSR-AP-MIB DEFINITIONS ::= BEGIN
 
    IMPORTS
